@@ -11808,7 +11808,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = ' TOME', url = 't.me/5313511917'}, 
+{text = ' TOME', url = 't.me/Q6OOOOI'}, 
 },
 }
 }
